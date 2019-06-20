@@ -24,7 +24,7 @@ green and blue. How do you reshape this into a column vector?
    [ ] The computation cannot happen because the sizes don't match. It's going to be "Error"!
    [ ] c.shape = (3, 2)
    [ ] c.shape = (2, 1)
-   [ ] c.shape = (2, 3)
+   [*] c.shape = (2, 3)
    
 5. Consider the two following random arrays "a" and "b":
     a = np.random.randn(4, 3) # a.shape = (4, 3)
